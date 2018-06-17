@@ -1,0 +1,13 @@
+{
+  "socketURL": "/",
+  "socketMessageEvent": "RTCMultiConnection-Message",
+  "socketCustomEvent": "RTCMultiConnection-Custom-Message",
+  "https_port": "443",
+  "http_port": "80",
+  "enableLogs": "true",
+  "autoRebootServerOnFailure": "true",
+  "isUseHTTPs": "true",
+  "ssl_key": "/path/to/certificate.key",
+  "ssl_cert": "/path/to/certificate.crt",
+  "ssl_cabundle": "/path/to/certificate.cabundle"
+}

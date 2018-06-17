@@ -1,20 +1,10 @@
+# LukeWebRTC
 
-
-# rfsdfs
-
-
-
-## Usage
+이 프로젝트는 <a href="https://github.com/muaz-khan/RTCMultiConnection">RTCMultiConnection</a> 를 기반으로 만들어 졌습니다.
 
 
 
-## Developing
 
+# License
 
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
+LukeWebRTC 는 MIT 라이선스로 배포됩니다.
