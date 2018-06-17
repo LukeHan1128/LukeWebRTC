@@ -116,7 +116,7 @@ http_app.use(flash());
 
 http_app.get('/', function(req, res){
   console.log('get /');
-	fs.readFile(__dirname + '/views/index.ejs', 'utf8', function(error, data) {  
+	fs.readFile(__dirname + '/index.ejs', 'utf8', function(error, data) {  
 		res.writeHead(200, {'content-type' : 'text/html'});   
 		res.end(ejs.render(data, {  
 			roomID : req.query.roomID,  
